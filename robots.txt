@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pancepar.github.io/pancepar.txt.gz
+Sitemap: https://pancepar.github.io/app/pancepar.txt.gz
+Sitemap: https://pancepar.github.io/assets/pancepar.txt.gz
+Sitemap: https://pancepar.github.io/css/pancepar.txt.gz
+Sitemap: https://pancepar.github.io/includes/pancepar.txt.gz
+Sitemap: https://pancepar.github.io/item/pancepar.txt.gz
+Sitemap: https://pancepar.github.io/src/pancepar.txt.gz
